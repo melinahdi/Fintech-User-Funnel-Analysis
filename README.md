@@ -60,6 +60,7 @@ Recommendation :
 ![image_alt](https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/Funnel%20Device%20Type%20and%20Operating%20System.png)
 
 Android tablet and web Chrome become the most preferred device type and operating system selected by users of fintech for their first transaction. We see the mobile type, whether it is android and ios, has the fewest users for their first transaction. Probably because the screen is smaller than a tablet or web in a laptop, since fintech needs us to fill out some kind of form.
+
 Recommendation :
 -	Optimise mobile features like autofill, better UI and UX, and something mobile-friendly
 
