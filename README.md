@@ -89,6 +89,6 @@ Recommendation :
 ![image_alt](https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/Returning%20User.png)
 
 The active days here mean users keep returning to the fintech product for certain days, as shown in the above histogram. The peak is between 9 and 11 days. Showing moderate return usage
-Recommendation :
+Recommendation:
 -	Introduce rewards or loyalty programs for consistent usage and drive high-frequency habits
 -	Analyse what drives users who are active on days 9-11 and replicate those triggers earlier
