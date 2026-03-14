@@ -29,7 +29,11 @@ These data could be organised or applicable for dimensional modelling, which is 
 
 <img src="https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/ERD%20fintech.png?raw=true" alt="ERD Diagram" width="500"/>
 
-You could download the dataset
+You could download the dataset [here](https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/Fintech%20Dataset.zip)
+
+However, for the specification of the analysis, choose one platform to transform the data mainly, basically to centralize. I choose to create datamarts or subset of data. Below is the structure of the datarmarts,
+
+
 
 
 ### Executive Summary
