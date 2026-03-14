@@ -37,7 +37,7 @@ However, for the specification of the analysis, choose one platform to transform
 
 You could download the query to create the tables [here](https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/Query%20Create%20Table.sql)
 
-You could download the query to create datarmarts [here](https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/Query%20Datamart.sql)
+You could download the query to create datarmarts [here](https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/Query%20Datarmart.sql)
 
 ### Executive Summary
 In 2025, the fintech platform demonstrated stable user activity throughout the year, reflecting consistent acquisition and engagement. However, beneath this surface stability lie critical bottlenecks that limit growth or could be problems in the future and the user activation journey.
