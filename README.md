@@ -47,7 +47,7 @@ In 2025, the fintech platform demonstrated stable user activity throughout the y
 ### Insights & Recommendations
 ![image_alt](https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/Funnel%20Month.png)
 
-If we look in scale of a year, the performance of users' activities in the fintech is quite good. I could say that because the trend from January 2025 to December 2025 is quite similar, which means it has a consistent tendency. We know there are many external and internal factors that might affect the funnel or the users' activities. The stability implies a resilient user base and reliable product performance. However, if we have initiative regarding growth, maybe could not be significant for month-over-month improvements.
+If we look in scale of a year, the performance of users' activities in the fintech is quite good. I could say that because the trend from January 2025 to December 2025 is quite similar, which means it has a consistent tendency. Even we know there are many external and internal factors that might affect the funnel or the users' activities. The stability implies a resilient user base and reliable product performance. However, if we have initiative regarding growth, maybe could not be significant for month-over-month improvements.
 
 ![image_alt](https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/Funnel%20Country.png)
 
