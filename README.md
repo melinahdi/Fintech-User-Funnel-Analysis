@@ -1,7 +1,7 @@
 # Fintech User Funnel Analysis
 
 ### Background and Overview
-There is this fintech company, established in 2018, that is a global company which head quartered in Indonesia with global active users across Indonesia, Taiwan, Hong Kong, Singapore, Malaysia, Saudi Arabia, and soon Korea and Japan, and Brunei.
+There is this fintech company, established in 2018, that is a global company which headquartered in Indonesia with global active users across Indonesia, Taiwan, Hong Kong, Singapore, Malaysia, Saudi Arabia, and soon Korea and Japan, and Brunei.
 
 The company has a mission to empower its users through its products, such as payment, lending, insurance, investment, and savings.
 
@@ -31,13 +31,13 @@ These data could be organised or applicable for dimensional modelling, which is 
 
 You could download the dataset [here](https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/Fintech%20Dataset.zip)
 
-However, for the specification of the analysis, choose one platform to transform the data mainly, basically to centralize. I choose to create datamarts or subset of data in the SQL data warehouse. While for visualisation I use Power BI. Below is the structure of the datarmarts,
+However, for the specification of the analysis, choose one platform to transform the data mainly, basically to centralize. I choose to create datarmarts or subset of data in the SQL data warehouse. While for visualisation I use Power BI. Below is the structure of the datarmarts,
 
 ![image_alt](https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/Datamarts%20Fintech.png?raw=true)
 
 You could download the query to create the tables [here](https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/Query%20Create%20Table.sql)
 
-You could download the query to create datamarts [here](https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/Query%20Datamart.sql)
+You could download the query to create datarmarts [here](https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/Query%20Datamart.sql)
 
 ### Executive Summary
 In 2025, the fintech platform demonstrated stable user activity throughout the year, reflecting consistent acquisition and engagement. However, beneath this surface stability lie critical bottlenecks that limit growth or could be problems in the future and the user activation journey.
