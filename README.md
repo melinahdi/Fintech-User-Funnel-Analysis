@@ -27,13 +27,13 @@ This fintech database has 7 tables, as can be seen below:
 
 These data could be organised or applicable for dimensional modelling, which is a snowflake schema. I choose this schema since normalization need to be done for dim_country and dim_location. Normalization here is done because dim_location is the detail version of dim_country, where in the dim_location table, there is information about the city. Below is the entity relationship diagram (ERD) for this analysis,
 
-![image_alt](https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/ERD%20Fintech.png?raw=true)
+<img src="https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/ERD%20Fintech.png?raw=true" alt="Fintech Database ERD" width="700"/>
 
 You could download the dataset [here](https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/Fintech%20Dataset.zip)
 
 However, for the specification of the analysis, choose one platform to transform the data mainly, basically to centralize. I choose to create datarmarts or subset of data in the SQL data warehouse. While for visualisation I use Power BI. Below is the structure of the datarmarts,
 
-![image_alt](https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/Datamarts%20Fintech.png?raw=true)
+<img src="https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/Datamarts%20Fintech.png?raw=true" alt="Fintech Datamarts Structure" width="700"/>
 
 You could download the query to create the tables [here](https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/Query%20Create%20Table.sql)
 
@@ -71,7 +71,7 @@ Funnel Month, Funnel Country, and Funnel Device Type and Operating System, as st
 ![image_alt](https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/Heatmap.png)
 ![image_alt](https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/TTFT.png)
 
-Most users take a long time to do their first transaction, 7-12 months, with 18082 users or could be said 61% from the total. There is a probability that the products are not immediately needed or the activation flow is weak. The consistency for this situation is also shown in the heatmap, which analyse relationship between registration month with first registration month. Where, 0-1 month after registration is very low, 2-3 increasing, 4-6 strong, and 7-12 highest. The drop in speed to do the first transaction happens between 1-3 months, and as we see the total row of the heatmap, the early months have very small percentages.
+Most users take a long time to do their first transaction, 7-12 months, with 18,082 users or could be said 61% from the total. There is a probability that the products are not immediately needed or the activation flow is weak. The consistency for this situation is also shown in the heatmap, which analyse relationship between registration month with first registration month. Where, 0-1 month after registration is very low, 2-3 increasing, 4-6 strong, and 7-12 highest. The drop in speed to do the first transaction happens between 1-3 months, and as we see the total row of the heatmap, the early months have very small percentages.
 
 Recommendation :
 -	Introduce early activation incentives to trigger speed, like bonuses, discounts, and educational content
