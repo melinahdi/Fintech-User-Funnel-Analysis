@@ -64,9 +64,9 @@ Android tablet and web Chrome become the most preferred device type and operatin
 Recommendation :
 -	Optimise mobile features like autofill, better UI and UX, and something mobile-friendly
 
-Funnel Month, Funnel Country, and Funnel Device Type and Operating System, as stated above, we could see that there is a situation where signups are higher than installs. This happened due to
--	User journey cross month, locations, or device types. User A, for example, might install in January 2025 but sign up in March 2025. Their location might be different too, like installing in Malaysia but signing up when they are in Singapore. The same thing also happen too device type.
--	For Chrome and Safari, there is data for installation. I created this data from ChatGPT. The web doesn’t have an install funnel. So, this kind of error data generation that we need to be aware of.
+Funnel Month, Funnel Country, and Funnel Device Type and Operating System, as stated above, we could see that there is a situation where signups are higher than installs. This happened due to:
+-	User journey cross month, locations, or device types. User A, for example, might install in January 2025 but sign up in March 2025. Their location might be different too, like installing in Malaysia but signing up when they are in Singapore. The same thing also happen too device type
+-	For Chrome and Safari, there is data for installation. I created this data from ChatGPT. The web doesn’t have an install funnel. So, this kind of error data generation that we need to be aware of
 
 ![image_alt](https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/Heatmap.png)
 ![image_alt](https://github.com/melinahdi/Fintech-User-Funnel-Analysis/blob/main/TTFT.png)
